@@ -1,2 +1,2 @@
-# Django-tarining-rest-api
+# Django-training-rest-api
 Dango training API project
